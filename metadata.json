@@ -1,0 +1,5 @@
+{
+  "name": "Subarray Sum Equals K Visualizer",
+  "description": "Interactive visualization of the Subarray Sum Equals K algorithm (Prefix Sum + HashMap) with step-by-step Chinese commentary.",
+  "requestFramePermissions": []
+}
